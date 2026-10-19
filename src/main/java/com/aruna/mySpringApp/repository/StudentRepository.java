@@ -1,5 +1,6 @@
-package com.aruna.mySpringApp;
+package com.aruna.mySpringApp.repository;
 
+import com.aruna.mySpringApp.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface StudentRepository
